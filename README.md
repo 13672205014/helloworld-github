@@ -1,2 +1,2 @@
-# helloworld-github
-使用GitHub的helloworld
+# helloworld-git
+helloworld
